@@ -1,0 +1,5 @@
+C:\Users\FLAVIA\Projetos\Etapa_Tecnica - GFT\Exercício 1\Exercicio_1\obj\Debug\net5.0\Exercicio_1.csproj.AssemblyReference.cache
+C:\Users\FLAVIA\Projetos\Etapa_Tecnica - GFT\Exercício 1\Exercicio_1\obj\Debug\net5.0\Exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FLAVIA\Projetos\Etapa_Tecnica - GFT\Exercício 1\Exercicio_1\obj\Debug\net5.0\Exercicio_1.AssemblyInfoInputs.cache
+C:\Users\FLAVIA\Projetos\Etapa_Tecnica - GFT\Exercício 1\Exercicio_1\obj\Debug\net5.0\Exercicio_1.AssemblyInfo.cs
+C:\Users\FLAVIA\Projetos\Etapa_Tecnica - GFT\Exercício 1\Exercicio_1\obj\Debug\net5.0\Exercicio_1.csproj.CoreCompileInputs.cache
